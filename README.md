@@ -1,7 +1,4 @@
-# Discord-Nuker
-Just a simple discord server nuker in python
-
-# Discord-Nuker
+# Muzan-Discord-Nuker
 
 This is Just a simple discord server nuker in python.
 
