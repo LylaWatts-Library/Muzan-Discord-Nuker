@@ -9,4 +9,4 @@ This is Just a simple discord server nuker in python.
 ## 💁‍♀️ How to use
 
 - Install Python requirements `pip3 install -r requirements.txt`
-- Start the server for development `python3 main.py`
+- Run the script `python3 main.py`
